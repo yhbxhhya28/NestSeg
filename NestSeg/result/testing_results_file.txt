@@ -1,0 +1,3 @@
+# NestSeg, initial lr: 0.01, batch size: 2, date: 2022-01-04 
+# unlabeled, car, person, bike, curve, car_stop, guardrail, color_cone, bump, average(nan_to_num). (Acc %, IoU %)
+  99.1331, 98.1300, 94.1282, 88.2360, 80.7627, 70.8404, 76.2151, 62.4332, 61.5321, 47.0458, 26.8042, 19.9420, 32.9100, 4.3408, 51.4194, 45.5195, 69.0796, 55.5067, 65.7761, 54.6660
